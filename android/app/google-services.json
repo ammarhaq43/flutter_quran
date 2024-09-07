@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969442850671",
+    "project_id": "flutter-quran-fab7e",
+    "storage_bucket": "flutter-quran-fab7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969442850671:android:8292b4c15149ffb0f3da9a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_quran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABobXyPf2PSH50y36TXI-a4UHiRvg3Vts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
